@@ -1,4 +1,4 @@
-
+//Code to read data file and Calculate Min/Max/Mean
 
 	
 	import java.io.*;
